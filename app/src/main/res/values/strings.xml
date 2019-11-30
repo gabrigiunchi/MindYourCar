@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MindYourCar</string>
+    <string name="action_settings">Settings</string>
+    <string name="deviceSelectionOptionText">Scegli device di default</string>
+    <string name="selectProbabilitàOptionText">Scegli probabilità minima di allarme</string>
+    <string name="action_connect_settings">Connect to...</string>
+    <string name="action_disconnect_settings">Disconnect</string>
+</resources>
